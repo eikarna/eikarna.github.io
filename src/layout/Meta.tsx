@@ -18,9 +18,9 @@ const Meta = (props: IMetaProps) => {
       <Head>
         <meta charSet="UTF-8" key="charset" />
         <meta
-          name="keyword"
+          name="keywords"
           content={`${AppConfig.keyword}`}
-          key="keyword"
+          key="keywords"
         />
         <meta
           name="viewport"
