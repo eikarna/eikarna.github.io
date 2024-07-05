@@ -6,7 +6,6 @@ import { AppConfig } from '../utils/AppConfig';
 
 type IMetaProps = {
   title: string;
-  keyword: string;
   description: string;
   canonical?: string;
 };
@@ -20,7 +19,7 @@ const Meta = (props: IMetaProps) => {
         <meta charSet="UTF-8" key="charset" />
         <meta
           name="keyword"
-          content={`${props.keyword}`}
+          content={`${AppConfig.keyword}`}
           key="keyword"
         />
         <meta
