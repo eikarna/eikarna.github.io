@@ -6,6 +6,7 @@ import { AppConfig } from '../utils/AppConfig';
 
 type IMetaProps = {
   title: string;
+  keyword: string;
   description: string;
   canonical?: string;
 };
@@ -17,6 +18,11 @@ const Meta = (props: IMetaProps) => {
     <>
       <Head>
         <meta charSet="UTF-8" key="charset" />
+        <meta
+          name="keyword"
+          content={`${props.keyword}`}
+          key="keyword"
+        />
         <meta
           name="viewport"
           content="width=device-width,initial-scale=1"
@@ -49,7 +55,6 @@ const Meta = (props: IMetaProps) => {
       </Head>
       <NextSeo
         title={props.title}
-        keyword={props.keyword}
         description={props.description}
         canonical={props.canonical}
         openGraph={{
