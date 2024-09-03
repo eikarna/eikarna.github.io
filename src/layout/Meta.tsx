@@ -63,6 +63,16 @@ const Meta = (props: IMetaProps) => {
           locale: AppConfig.locale,
           siteName: AppConfig.site_name,
         }}
+        additionalMetaTags={[{
+          property: 'dc:creator',
+          content: 'Adnan Syamsafa'
+        }, {
+          name: 'application-name',
+          content: 'Eikarna Portofolio'
+        }, {
+          httpEquiv: 'x-ua-compatible',
+          content: 'IE=edge; chrome=1'
+        }]}
       />
     </>
   );
