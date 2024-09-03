@@ -61,7 +61,7 @@ const Meta = (props: IMetaProps) => {
           description: props.description,
           url: props.canonical,
           locale: AppConfig.locale,
-          site_name: AppConfig.site_name,
+          siteName: AppConfig.site_name,
         }}
       />
     </>
