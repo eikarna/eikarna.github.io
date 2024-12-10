@@ -4,9 +4,9 @@ title: "Memahami cara berpikir seorang Programmer"
 thumb_image: "posts/ilust1.jpg"
 tags: [Filosofi]
 ---
-## Pendahuluan
+{% include image.html path="posts/ilust1.jpg" path-detail="posts/ilus1.jpg" alt="Ilustrasi Programmer" %}
 
-![Ilustrasi Programmer](/assets/images/posts/ilust1.jpg)
+## Pendahuluan
 
 Dunia pemrograman seringkali terlihat misterius bagi mereka yang tidak berkecimpung di dalamnya. Namun, sebenarnya, cara berpikir seorang programmer memiliki pola dan logika tersendiri yang dapat dipahami dan dipelajari. Artikel ini akan mengupas tuntas bagaimana seorang programmer melihat dan menyelesaikan masalah.
 
