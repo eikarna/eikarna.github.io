@@ -47,7 +47,12 @@ jobs:
           node-version: 20
       - name: Run setup
         run: |
-          npm run setup
+          set -e
+          gem install bundler --conservative
+          bundle check || bundle install
+          bundle update
+          npm install -g yarn
+          yarn install --modules-folder ./_assets/yarn
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
