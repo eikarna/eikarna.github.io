@@ -6,7 +6,7 @@ tags: [Filosofi]
 ---
 ## Pendahuluan
 
-{% include image.html path="posts/ilust1.jpg" alt="Ilustrasi programmer" %}
+![Ilustrasi Programmer](/_assets/images/posts/ilust1.jpg)
 
 Dunia pemrograman seringkali terlihat misterius bagi mereka yang tidak berkecimpung di dalamnya. Namun, sebenarnya, cara berpikir seorang programmer memiliki pola dan logika tersendiri yang dapat dipahami dan dipelajari. Artikel ini akan mengupas tuntas bagaimana seorang programmer melihat dan menyelesaikan masalah.
 
