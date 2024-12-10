@@ -2,6 +2,7 @@
 layout: post
 title: Kecerdasan Buatan akan Menggantikan Pekerjaan Programmer? Ini Faktanya
 thumb_image: https://www.lockheedmartin.com/content/dam/lockheed-martin/eo/photo/ai-ml/artificial-intelligence-1920.jpg
+tags: [Teknologi,AI]
 ---
 ![Ilustrasi](https://www.lockheedmartin.com/content/dam/lockheed-martin/eo/photo/ai-ml/artificial-intelligence-1920.jpg)
 
