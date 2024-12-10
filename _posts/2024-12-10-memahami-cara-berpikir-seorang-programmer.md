@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Memahami cara berpikir seorang Programmer"
-thumb_image: "img/ilus1.jpg"
+thumb_image: "https://bakrie.ac.id/images/article%20seo/tips%20jadi%20programmer%20handal.jpg"
 tags: [Filosofi]
 ---
-{% include image.html path="img/ilust1.jpg" path-detail="img/ilus1.jpg" alt="Ilustrasi Programmer" %}
+![Ilustrasi Programmer](https://bakrie.ac.id/images/article%20seo/tips%20jadi%20programmer%20handal.jpg)
 
 ## Pendahuluan
 
