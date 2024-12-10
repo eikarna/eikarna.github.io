@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Memahami cara berpikir seorang Programmer"
-thumb_image: "{% asset 'img/ilust1.jpg' @path %}"
+thumb_image: "img/ilus1.jpg"
 tags: [Filosofi]
 ---
 {% include image.html path="img/ilust1.jpg" path-detail="img/ilus1.jpg" alt="Ilustrasi Programmer" %}
