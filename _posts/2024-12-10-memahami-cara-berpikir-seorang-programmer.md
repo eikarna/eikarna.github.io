@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Memahami cara berpikir seorang Programmer"
-thumb_image: "{% asset 'posts/ilust1.jpg' @path %}"
+thumb_image: "posts/ilust1.jpg"
 tags: [Filosofi]
 ---
 ## Pendahuluan
