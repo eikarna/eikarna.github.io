@@ -108,5 +108,3 @@ Metaverse adalah pisau bermata dua. Teknologi luar biasa, tapi membutuhkan kesad
 Metaverse bukan sekadar tren, tapi revolusi digital yang akan mengubah cara kita hidup, berinteraksi, dan bekerja. Seperti internet dulu, metaverse akan merombak total pengalaman manusia.
 
 **Catatan Pribadi Saya:** Metaverse itu keren, tapi jangan sampai lupa dunia nyata ya! Teknologi ada untuk melengkapi, bukan menggantikan hubungan manusia yang sesungguhnya. 😎🌐
-
-#Metaverse #MasaDepanDigital #TeknologiBaru #IndonesiaMaju
