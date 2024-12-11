@@ -19,14 +19,41 @@ Metaverse adalah ekosistem digital terhubung yang memungkinkan pengguna untuk be
 Metaverse bukan sekadar ruang, melainkan semesta digital yang dinamis dan selalu berubah.
 
 ### Contoh Aktivitas yang bisa dilakukan di Metaverse
-- 🎮 Main game bareng temen dari berbagai kota
-- 💼 Rapat kerja dengan avatar kece di ruang virtual
-- 🛍️ Belanja di mal digital tanpa gerak dari sofa
-- 🎵 Nonton konser artis favorit secara virtual
+- Main game bareng temen dari berbagai kota
+- Rapat kerja dengan avatar kece di ruang virtual
+- Belanja di mal digital tanpa gerak dari sofa
+- Nonton konser artis favorit secara virtual
+- Dan masih banyk lagi
 
-### Bedanya dengan Internet Biasa
-Internet sekarang: Layar datar yang kamu lihat
-Metaverse: Ruang hidup yang bisa kamu *masuki* dan *alami*
+### Lalu, Apa Bedanya dengan Internet Biasa?
+![Ilustrasi perbandingan Internet dengan Metaverse](https://miro.medium.com/v2/format:webp/1*oSpJK23lTXg3NTw1kHGOmg.jpeg)
+
+Internet tradisional adalah sekadar *jendela* ke dunia digital, sementara Metaverse adalah *pintu* menuju dimensi baru pengalaman manusia.
+
+**Internet Biasa:**
+- Interaksi 2D yang statis
+- Komunikasi melalui layar datar
+- Informasi searah
+- Keterbatasan gerak dan ekspresi
+- Pengalaman yang pasif
+
+**Metaverse:**
+- Ruang digital tiga dimensi yang hidup dan bernapas
+- Interaksi mendekati dunia nyata
+- Komunikasi multi-arah dan real-time
+- Kebebasan bergerak dan berekspresi
+- Pengalaman yang *imersif* dan interaktif
+
+**Analoginya:** 
+Jika internet tradisional seperti menonton film melalui layar TV, Metaverse adalah *masuk* ke dalam film itu sendiri. Kamu tidak sekadar melihat, tetapi *mengalami*, *berinteraksi*, dan *menjadi bagian* dari cerita.
+
+Dalam Metaverse, avatar-mu bisa:
+- Berjalan di ruang kerja virtual
+- Berbincang dengan teman dari berbagai belahan dunia
+- Menghadiri konser tanpa meninggalkan rumah
+- Bahkan *menyentuh* dan *merasakan* objek digital
+
+Intinya, Metaverse mengubah cara kita berinteraksi dari sekadar *melihat* menjadi *mengalami*.
 
 ## Teknologi Pendukung Metaverse
 
