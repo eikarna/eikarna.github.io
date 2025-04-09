@@ -11,7 +11,7 @@ Di balik langit senja yang memerah, Ardi melangkah di antara kerumunan yang tak 
 
 ![Ilustrasi Renungan di Pagi yang Berkabut](https://eikarna.github.io/blog_assets/img/img000-kebebasan-dan-bebas.webp)
 
-Pada pagi yang masih dibalut kabut tipis, Ardi teringat pelajaran lama yang pernah ia dengar: kebebasan sejati adalah hakikat yang tidak sekadar diraih melalui pernyataan "*aku bebas*", tetapi melalui perjalanan panjang mengatasi rintangan yang menghambat jiwa. Di balik kata '*bebas*" yang sering terdengar ringan dalam obrolan santai teman-temannya, terselubung makna mendalam tentang hak untuk menentukan nasib dan mengukir identitas sendiri—sebuah hak yang harus dipertanggungjawabkan dengan integritas dan keberanian moral.
+Pada pagi yang masih dibalut kabut tipis, Ardi teringat pelajaran lama yang pernah ia dengar: kebebasan sejati adalah hakikat yang tidak sekadar diraih melalui pernyataan "*aku bebas*", tetapi melalui perjalanan panjang mengatasi rintangan yang menghambat jiwa. Di balik kata "*bebas*" yang sering terdengar ringan dalam obrolan santai teman-temannya, terselubung makna mendalam tentang hak untuk menentukan nasib dan mengukir identitas sendiri—sebuah hak yang harus dipertanggungjawabkan dengan integritas dan keberanian moral.
 
 ![Ilustrasi Sebuah Kafe di Ujung Kota](https://eikarna.github.io/blog_assets/img/img001-kebebasan-dan-bebas.webp)
 
