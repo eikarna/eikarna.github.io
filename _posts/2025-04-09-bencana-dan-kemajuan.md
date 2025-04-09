@@ -4,7 +4,7 @@ title: Bencana dan Kemajuan Peradaban Manusia
 thumb_image: https://eikarna.github.io/assets/img/banner-bencana-dan-kemajuan.webp
 tags: [Sejarah]
 ---
-![Ilustrasi](https://eikarna.github.io/assets/img/banner-bencana-dan-kemajuan.webp)
+![Ilustrasi](https://eikarna.github.io/blog_assets/img/banner-bencana-dan-kemajuan.webp)
 
 ## Pendahuluan
 Sejarah umat manusia telah mencatat bahwa bencana, meskipun membawa kehancuran,
@@ -14,19 +14,19 @@ setiap krisis mengandung pelajaran mendalam mengenai adaptasi dan transformasi s
 Blog ini mengulas bagaimana bencana telah mendorong perubahan struktural dan inovasi yang kemudian menjadi fondasi kemajuan peradaban manusia.
 
 ## 1. Dari Black Death ke Pandemi Modern
-![Ilustrasi Wabah Black Death](https://eikarna.github.io/assets/img/img000-bencana-dan-kemajuan.webp)
+![Ilustrasi Wabah Black Death](https://eikarna.github.io/blog_assets/img/img000-bencana-dan-kemajuan.webp)
 Wabah Black Death pada abad ke-14 merupakan salah satu peristiwa paling mematikan dalam sejarah Eropa. Bakteri *Yersinia pestis* yang ditularkan melalui kutu pada tikus kecil menyebabkan hilangnya hingga 75 juta jiwa dalam waktu kurang dari lima tahun. Krisis demografis ini, meskipun mengakibatkan kerusakan sosial dan ekonomi yang luar biasa, juga membuka peluang bagi transformasi mendalam dalam struktur masyarakat.
 
 Demikian pula, pandemi COVID-19 baru-baru ini menunjukkan betapa rentannya peradaban modern. Virus yang tidak terlihat dengan mata telanjang tersebut mampu mengguncang sistem ekonomi dan sosial global, mengakibatkan jutaan orang kehilangan pekerjaan dan menuntut penyesuaian cepat dalam berbagai aspek kehidupan.
 
 ## 2. Bencana sebagai Inti Perubahan Sosial dan Ekonomi
-![Ilustrasi Bencana sebagai Inti Perubahan Sosial dan Ekonomi](https://eikarna.github.io/assets/img/img001-bencana-dan-kemajuan.webp)
+![Ilustrasi Bencana sebagai Inti Perubahan Sosial dan Ekonomi](https://eikarna.github.io/blog_assets/img/img001-bencana-dan-kemajuan.webp)
 Kedua peristiwa krisis tersebut menyoroti bagaimana bencana dapat menjadi pemicu perubahan signifikan. Setelah Black Death, kelangkaan tenaga kerja menyebabkan pergeseran daya tawar yang menguntungkan golongan pekerja, yang pada gilirannya memicu transformasi dalam struktur sosial dan ekonomi. Pergeseran ini membuka jalan bagi lahirnya era Renaissance, suatu periode kemajuan intelektual dan artistik yang mendunia.
 
 Pandemi COVID-19 juga memaksa masyarakat untuk beradaptasi secara cepat terhadap digitalisasi dan otomatisasi. Perubahan-perubahan ini, meskipun awalnya menimbulkan kesulitan, telah mendorong percepatan inovasi teknologi dan restrukturisasi sistem kerja yang sebelumnya diperkirakan berlangsung secara bertahap.
 
 ## 3. Pelajaran bagi Manusia untuk Peradaban di Masa Depan
-![Ilustrasi Pelajaran bagi Manusia untuk Peradaban di Masa Depan](https://eikarna.github.io/assets/img/img002-bencana-dan-kemajuan.webp)
+![Ilustrasi Pelajaran bagi Manusia untuk Peradaban di Masa Depan](https://eikarna.github.io/blog_assets/img/img002-bencana-dan-kemajuan.webp)
 Pengalaman sejarah menunjukkan bahwa bencana memiliki dua sisi: kehancuran dan kesempatan. Hal ini menegaskan bahwa:
 
 - **Kesiapan Adaptasi:** Kemampuan untuk merespons dan beradaptasi terhadap krisis sangat menentukan sejauh mana suatu peradaban dapat bangkit kembali.
@@ -34,7 +34,7 @@ Pengalaman sejarah menunjukkan bahwa bencana memiliki dua sisi: kehancuran dan k
 - **Refleksi Kritis:** Setiap bencana menyisakan pelajaran berharga tentang pentingnya perhatian terhadap hal-hal kecil yang, jika diabaikan, dapat menimbulkan konsekuensi besar.
 
 ## 4. Inovasi Kreatif dan Ekspresi Budaya di Tengah Krisis
-![Ilustrasi Inovasi Kreatif dan Ekspresi Budaya di Tengah Krisis](https://eikarna.github.io/assets/img/img003-bencana-dan-kemajuan.webp)
+![Ilustrasi Inovasi Kreatif dan Ekspresi Budaya di Tengah Krisis](https://eikarna.github.io/blog_assets/img/img003-bencana-dan-kemajuan.webp)
 Bencana tidak hanya memicu transformasi struktural dan ekonomi, tetapi juga merangsang inovasi di ranah teknologi serta ekspresi seni dan budaya. Saat krisis melanda, kreativitas manusia muncul sebagai mekanisme adaptasi yang unik, mengubah duka menjadi inspirasi.  
 
 - **Teknologi sebagai Jembatan Solusi:**  
