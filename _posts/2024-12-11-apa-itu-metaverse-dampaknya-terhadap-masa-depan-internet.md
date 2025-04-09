@@ -2,7 +2,7 @@
 layout: post
 title: "Metaverse: Revolusi Dunia Maya yang Mengubah Segalanya"
 thumb-image: https://indi.tech/wp-content/uploads/2022/03/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_a4bdd6d0-5b28-4555-b733-2c23a7a9eb4c_750x480-750x370.jpeg
-tags: [Teknologi]
+tags: [teknologi]
 ---
 ![Ilustrasi Metaverse](https://www.graphie.co.id/uploads/blog/Apa_Itu_Metaverse__Artinya_Yang_Harus_Anda_Ketahui_2.png)
 
