@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Kebebasan, dan \"Bebas\"
+title: Kebebasan, dan "Bebas"
 thumb_image: https://eikarna.github.io/blog_assets/img/banner-kebebasan-dan-bebas.webp
 tags: [filosofi,AI]
 ---
 
+![Ilustrasi Kebebasan dan "Bebas"](https://eikarna.github.io/blog_assets/img/img008-kebebasan-dan-bebas.webp)
 Di balik langit senja yang memerah, Ardi melangkah di antara kerumunan yang tak bertepi, seolah menyusuri lorong waktu yang menghubungkan masa lalu dan masa kini. Setiap langkahnya menggelegar dalam keheningan batin, di mana bayang-bayang kekuasaan terselubung berbaur dengan riuh rendah kehidupan kota yang tampak gemerlap namun menyimpan rahasia yang tak pernah terucap. Dalam kegelapan yang perlahan merayap, Ardi menyaksikan bagaimana kota itu, dengan gedung-gedung tinggi dan lampu-lampu yang redup, bagaikan panggung teater di mana drama kehidupan dan intrik politik dipentaskan tanpa henti.
 
 ![Ilustrasi Renungan di Pagi yang Berkabut](https://eikarna.github.io/blog_assets/img/img000-kebebasan-dan-bebas.webp)
