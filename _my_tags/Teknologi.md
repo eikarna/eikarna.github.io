@@ -1,4 +1,0 @@
----
-slug: Teknologi
-name: Teknologi
----

@@ -1,0 +1,4 @@
+---
+slug: teknologi
+name: teknologi
+---
