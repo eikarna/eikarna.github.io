@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kebebasan, dan "Bebas"
+title: Kebebasan, dan \"Bebas\"
 thumb_image: https://eikarna.github.io/blog_assets/img/banner-kebebasan-dan-bebas.webp
 tags: [filosofi,AI]
 ---
