@@ -1,4 +1,0 @@
----
-slug: Filosofi
-name: Filosofi
----
