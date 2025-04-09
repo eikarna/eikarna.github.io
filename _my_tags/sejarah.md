@@ -1,4 +1,4 @@
 ---
 slug: sejarah
-name: Sejarah
+name: sejarah
 ---
