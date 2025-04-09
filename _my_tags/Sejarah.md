@@ -1,4 +1,4 @@
 ---
-slug: Sejarah
+slug: sejarah
 name: Sejarah
 ---
