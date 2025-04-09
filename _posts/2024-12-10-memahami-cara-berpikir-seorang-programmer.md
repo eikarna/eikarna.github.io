@@ -2,7 +2,7 @@
 layout: post
 title: "Memahami cara berpikir seorang Programmer"
 thumb_image: "https://bakrie.ac.id/images/article%20seo/tips%20jadi%20programmer%20handal.jpg"
-tags: [Filosofi,Teknologi]
+tags: [filosofi,teknologi]
 ---
 ![Ilustrasi Programmer](https://bakrie.ac.id/images/article%20seo/tips%20jadi%20programmer%20handal.jpg)
 
