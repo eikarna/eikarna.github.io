@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bencana dan Kemajuan Peradaban Manusia
-thumb_image: https://raw.githubusercontent.com/eikarna/assets/refs/heads/main/img/banner-bencana-dan-kemajuan.webp
+thumb_image: https://eikarna.github.io/assets/img/banner-bencana-dan-kemajuan.webp
 tags: [Sejarah]
 ---
 ![Ilustrasi](https://eikarna.github.io/assets/img/banner-bencana-dan-kemajuan.webp)
